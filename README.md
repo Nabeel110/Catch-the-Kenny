@@ -1,2 +1,6 @@
+
 ### 🎉 Catch the Kenny Demo
-<img src="https://github.com/Nabeel110/Catch-the-Kenny/blob/main/Docuemntation/Game-Demo.mp4" width=40% height=40%>
+<p>This is an iOS learning project in which I have created a game to put my learnings of iOS to practice.</p>
+
+https://user-images.githubusercontent.com/51041447/222646841-24e8ed99-8ae9-4cec-b9ea-aa6229b3b6f6.mp4
+
